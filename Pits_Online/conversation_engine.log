@@ -1,0 +1,13 @@
+2025-02-15 16:58:26,684 - INFO: Running conversation_engine.py directly
+2025-02-15 16:58:26,686 - INFO: Attempting to load chat store from cache/chat_history.json
+2025-02-15 16:58:26,687 - INFO: Chat store loaded successfully
+2025-02-15 16:58:26,688 - INFO: Initializing chatbot for Test User
+2025-02-15 16:58:26,688 - INFO: Study subject: Test Subject
+2025-02-15 16:58:26,688 - INFO: Context: Test context
+2025-02-15 16:58:26,778 - INFO: Loading index from index_storage
+2025-02-15 16:58:26,848 - INFO: Loading indices with ids: ['vector']
+2025-02-15 16:58:26,874 - INFO: Index loaded successfully
+2025-02-15 16:58:26,879 - INFO: Agent initialized successfully
+2025-02-15 16:58:26,880 - INFO: Attempting to display messages
+2025-02-15 16:58:26,885 - INFO: Found 0 messages
+2025-02-15 16:58:26,886 - INFO: Chatbot initialized successfully
